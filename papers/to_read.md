@@ -1,0 +1,3 @@
+# Interesting papers I will read...
+
+1. [architecture of a database system](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
