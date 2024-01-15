@@ -8,3 +8,4 @@
 6. [aws - the good, the bad and the ugly](https://web.archive.org/web/20160429075023/http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/)
 7. [what bugs live in the cloud?](https://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf)
 8. [everything you know about latency is wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+9. [why percentiles don't work the way you think](https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/)
