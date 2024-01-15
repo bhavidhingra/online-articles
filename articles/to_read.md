@@ -6,3 +6,4 @@
 4. [Your definitive guide to AWS solutions architect roles](https://cloudmize.medium.com/your-definitive-guide-to-375-000-aws-solutions-architect-roles-8b0e52781ad6)
 5. [mastering end to end encryption](https://jinlow.medium.com/mastering-end-to-end-encryption-162085927dea)
 6. [aws - the good, the bad and the ugly](https://web.archive.org/web/20160429075023/http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/)
+7. [what bugs live in the cloud?](https://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf)
