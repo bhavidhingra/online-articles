@@ -9,3 +9,4 @@
 7. [what bugs live in the cloud?](https://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf)
 8. [everything you know about latency is wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
 9. [why percentiles don't work the way you think](https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/)
+10. [schema design for time series data in mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
