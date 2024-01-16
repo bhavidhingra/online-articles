@@ -12,3 +12,4 @@
 10. [schema design for time series data in mongodb](https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb)
 11. [schemaless data structures](https://martinfowler.com/articles/schemaless/)
 12. [schema-on-read vs schema-on-write](https://www.slideshare.net/awadallah/schemaonread-vs-schemaonwrite)
+13. [Introducing Espresso - LinkedIn's hot new distributed document store](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store)
