@@ -1,0 +1,3 @@
+# Interesting videos I will watch...
+
+1. [Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)
