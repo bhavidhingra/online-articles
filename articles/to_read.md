@@ -13,3 +13,6 @@
 11. [schemaless data structures](https://martinfowler.com/articles/schemaless/)
 12. [schema-on-read vs schema-on-write](https://www.slideshare.net/awadallah/schemaonread-vs-schemaonwrite)
 13. [Introducing Espresso - LinkedIn's hot new distributed document store](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store)
+14. [Putting Apache Kafka To Use: A Practical Guide to Building an Event Streaming Platform (Part 2)](https://www.confluent.io/blog/event-streaming-platform-2/)
+15. [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
+16. [Your API versioning is wrong, which is why I decided to do it 3 different wrong ways](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/)
