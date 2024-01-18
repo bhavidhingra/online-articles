@@ -16,3 +16,5 @@
 14. [Putting Apache Kafka To Use: A Practical Guide to Building an Event Streaming Platform (Part 2)](https://www.confluent.io/blog/event-streaming-platform-2/)
 15. [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
 16. [Your API versioning is wrong, which is why I decided to do it 3 different wrong ways](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/)
+17. [What’s different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+
