@@ -17,4 +17,5 @@
 15. [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
 16. [Your API versioning is wrong, which is why I decided to do it 3 different wrong ways](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/)
 17. [What’s different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
+18. [Two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
 
