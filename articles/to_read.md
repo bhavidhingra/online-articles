@@ -17,4 +17,5 @@
 16. [Your API versioning is wrong, which is why I decided to do it 3 different wrong ways](https://www.troyhunt.com/your-api-versioning-is-wrong-which-is/)
 17. [What’s different about the new Google Docs: Making collaboration fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html)
 18. [Two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol)
+19. [How Uber Serves over 40 Million Reads per Second with Caching](https://blog.quastor.org/p/uber-serves-40-million-reads-per-second-caching?utm_source=blog.quastor.org&utm_medium=newsletter&utm_campaign=how-uber-serves-over-40-million-reads-per-second-with-caching)
 
