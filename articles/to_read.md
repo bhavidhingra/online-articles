@@ -30,3 +30,4 @@
 33. [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 34. [Elliptic-curve Diffie–Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
 35. [EdDSA](https://en.wikipedia.org/wiki/EdDSA#Ed25519)
+36. [What Are Wrapped Crypto Tokens?](https://www.coinspeaker.com/guides/what-are-wrapped-crypto-tokens/)
