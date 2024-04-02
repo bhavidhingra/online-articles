@@ -31,3 +31,4 @@
 34. [Elliptic-curve Diffie–Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
 35. [EdDSA](https://en.wikipedia.org/wiki/EdDSA#Ed25519)
 36. [What Are Wrapped Crypto Tokens?](https://www.coinspeaker.com/guides/what-are-wrapped-crypto-tokens/)
+37. [How BitGo Enables Exchanges to Accept ETH Transactions From Smart Contracts](https://blog.bitgo.com/how-bitgo-enables-exchanges-to-accept-eth-transactions-from-smart-contracts-f5355a746ffe)
