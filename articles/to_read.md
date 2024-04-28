@@ -33,3 +33,7 @@
 36. [What Are Wrapped Crypto Tokens?](https://www.coinspeaker.com/guides/what-are-wrapped-crypto-tokens/)
 37. [How BitGo Enables Exchanges to Accept ETH Transactions From Smart Contracts](https://blog.bitgo.com/how-bitgo-enables-exchanges-to-accept-eth-transactions-from-smart-contracts-f5355a746ffe)
 38. [Notes on Distributed System for Young Bloods](https://web.archive.org/web/20200218095605/https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+39. [Please Stop Calling Databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+40. [A Better ID Generator For PostgreSQL](https://bigmachine.io/2014/05/29/a-better-id-generator-for-postgresql/)
+41. [How to beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
+42. [Web hooks to revolutionize the web](https://web.archive.org/web/20180928201955/http://progrium.com/blog/2007/05/03/web-hooks-to-revolutionize-the-web/)
